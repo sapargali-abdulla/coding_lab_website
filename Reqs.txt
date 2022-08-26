@@ -1,0 +1,17 @@
+design, database, functionality
+
+sitemap
+At least 5 webpages
+ERD, DB minimum 5 tables
+Registration/login (something similar)
+Possibility to post data from web page
+Static files (css, imgs, fonts, js, etc.)
+Media files (music from db, imgs from db, files from db, etc.)
+Using template system
+Unique feature of your project
+Github link
+Project Presentation 
+Code Readability
+
+documentation (report), presentation, the project
+defence of the whole project - on final
